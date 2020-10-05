@@ -1,5 +1,5 @@
 # WeatherApp
-A simple weather app built with React Native
+A simple weather app built with VueJS
 
 # APIs
 Weather data is retrieved from http://openweathermap.org/
