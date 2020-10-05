@@ -1,4 +1,8 @@
 # WeatherApp
+A simple weather app built with React Native
+
+# APIs
+Weather data is retrieved from http://openweathermap.org/
 
 ## Project setup
 ```
